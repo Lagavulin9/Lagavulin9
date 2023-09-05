@@ -4,7 +4,7 @@
 
 I'm a student @ [42Wolfsburg](https://42wolfsburg.de) & [SEA:ME](https://seame.space)
 
-📚 Interested in embedded and linux
+📚 I'm interested in embedded and linux
 
 🚙 I’m currently learning software for automotives
 
