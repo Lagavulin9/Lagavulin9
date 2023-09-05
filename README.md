@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=34eb3d&height=300&section=header&text=Welcome!-nl-jinholee's%20Github&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=34eb3d&height=150&section=header&text=Welcome!-nl-jinholee's%20Github&fontSize=60)
 
 ## Hi there 👋
 
