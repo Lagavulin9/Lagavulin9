@@ -11,6 +11,8 @@ I'm a student @ [42Wolfsburg](https://42wolfsburg.de) & [SEA:ME](https://seame.s
 🔭 I’m currently working on yocto project to build my own linux distribution
 
 ## Skills
+<div align="center">
+
 ![Static Badge](https://img.shields.io/badge/Git-F050532.svg?style=flat&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Github-181717.svg?style=flat&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white)
@@ -30,6 +32,8 @@ I'm a student @ [42Wolfsburg](https://42wolfsburg.de) & [SEA:ME](https://seame.s
 ![Static Badge](https://img.shields.io/badge/Flutter-02569B.svg?style=flat&logo=flutter&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lagavulin9&layout=compact&hide=Objective-C,Roff)
+
+</div>
 
 ## Contact
 📫 E-Mail: jinholee@student.42wolfsburg.de
