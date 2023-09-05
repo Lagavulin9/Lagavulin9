@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=34eb3d&height=300&section=header&text=Welcome!-nl-jinholee's%20Github&fontSize=60)
+
 ## Hi there 👋
 
 I'm a student @ [42Wolfsburg](https://42wolfsburg.de) & [SEA:ME](https://seame.space)
@@ -7,8 +9,6 @@ I'm a student @ [42Wolfsburg](https://42wolfsburg.de) & [SEA:ME](https://seame.s
 🚙 I’m currently learning software for automotives
 
 🔭 I’m currently working on yocto project to build my own linux distribution
-
-📫 How to reach me: jinholee@student.42wolfsburg.de
 
 ## Skills
 ![Static Badge](https://img.shields.io/badge/Git-F050532.svg?style=flat&logo=git&logoColor=white)
@@ -29,6 +29,12 @@ I'm a student @ [42Wolfsburg](https://42wolfsburg.de) & [SEA:ME](https://seame.s
 ![Static Badge](https://img.shields.io/badge/Nest.js-E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Flutter-02569B.svg?style=flat&logo=flutter&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lagavulin9&layout=compact&hide=Objective-C,Roff)
+
+## Contact
+📫 E-Mail: jinholee@student.42wolfsburg.de
+
+🔗 Linked In: https://www.linkedin.com/in/jinhong-lee-63103a268/
 
 <!--
 **Lagavulin9/Lagavulin9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
