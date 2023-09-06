@@ -39,7 +39,7 @@ I'm a student @ [42Wolfsburg](https://42wolfsburg.de) & [SEA:ME](https://seame.s
 -->
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,c,cpp,cmake,arduino,raspberrypi,python,html,css,react,javascript,nodejs,typescript,nestjs,flutter&perline=6)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lagavulin9&layout=compact&hide=Objective-C,Roff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lagavulin9&layout=compact&hide=Objective-C,Roff&langs_count=8)
 
 ## Contact
 📫 E-Mail: jinholee@student.42wolfsburg.de
